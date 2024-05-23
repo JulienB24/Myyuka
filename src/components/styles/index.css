@@ -1,0 +1,137 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+body {
+  background-image: url("fondEcran.jpg");
+  background-size: cover;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+#banner h1 {
+  font-style: italic;
+  font-size: 75px !important;
+  font-weight: bolder;
+  text-shadow: #000;
+  text-shadow: 3px 3px 5px #2e4111;
+}
+#banner {
+  text-shadow: 2px 2px 2px #000000b9;
+
+  padding-top: 35px;
+  font-family: "Jura", sans-serif;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-style: normal;
+  color: white;
+  font-weight: 1000;
+}
+
+#vege {
+  position: absolute;
+  width: 14%;
+  border-radius: 10px;
+  top: 170px;
+  right: 35px;
+}
+#bio {
+  position: absolute;
+  width: 25%;
+  border-radius: 10px;
+  top: 0px;
+  right: 0px;
+}
+#titreProduit,
+#allergene,
+#infoFooter {
+  background-color: #644a33c4;
+}
+#info {
+  color: white;
+}
+#titreProduit,
+#allergene,
+#infoFooter,
+#footer {
+  font-family: "Jura", sans-serif;
+  color: #ffffff;
+}
+#img {
+  background-color: white;
+  object-fit: cover;
+  box-shadow: 10px 10px 10px rgb(0, 0, 0, 0.5);
+}
+
+table {
+  box-shadow: 10px 10px 10px rgb(0, 0, 0, 0.5);
+  border-collapse: collapse !important;
+  margin: auto;
+  width: 100%;
+}
+th {
+  text-align: left !important;
+}
+th,
+td {
+  border: 1px solid !important;
+  padding: 5px;
+  border-color: #000 !important;
+  background-color: #ffffffab;
+  font-weight: bolder;
+}
+thead,
+th {
+  background-color: #644a33c4;
+  color: #fff;
+  border-color: #000;
+}
+
+#nova {
+  min-width: 50px;
+  width: 75px;
+}
+
+#nutriScore {
+  min-width: 75px;
+  width: 150px;
+}
+#palm {
+  height: 50px;
+}
+li > a {
+  font-size: 17px;
+  text-decoration: none;
+  color: white;
+  background-color: #87bb34d7;
+  border-radius: 5px;
+  padding: 2px 10px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.692);
+}
+li > a:hover {
+  background-color: #87bb34;
+  color: #000000a4;
+}
+
+input {
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.592);
+  background-color: #f8f8f7b2;
+  border-radius: 10px;
+  border-color: #000;
+}
+#bouton {
+  color: white;
+  background-color: #87bb34d7;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.616);
+}
+#bouton:hover {
+  color: #000000af;
+  background-color: #87bb34;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.178);
+}
+#infoCarre {
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.178);
+  background-color: #644a33c4;
+}
