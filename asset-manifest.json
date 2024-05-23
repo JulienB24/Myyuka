@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Myyuka/static/css/main.34cb9fe7.css",
+    "main.js": "/Myyuka/static/js/main.da8f20f1.js",
+    "static/js/453.ed3810f9.chunk.js": "/Myyuka/static/js/453.ed3810f9.chunk.js",
+    "static/media/fondEcran.jpg": "/Myyuka/static/media/fondEcran.5f4c04513e1e9efbc1db.jpg",
+    "index.html": "/Myyuka/index.html",
+    "main.34cb9fe7.css.map": "/Myyuka/static/css/main.34cb9fe7.css.map",
+    "main.da8f20f1.js.map": "/Myyuka/static/js/main.da8f20f1.js.map",
+    "453.ed3810f9.chunk.js.map": "/Myyuka/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34cb9fe7.css",
+    "static/js/main.da8f20f1.js"
+  ]
+}
